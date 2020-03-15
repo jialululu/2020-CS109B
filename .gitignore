@@ -138,6 +138,11 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# ignore large files in homework
+content/HW/hw4/209/data_209.zip
+
+
+
 /cache/
 homeworks/how3/cs109a_hw3_solutions_rashmi.ipynb
 homeworks_playground/how4/cs109a_HW4_2019_solutions_official_problem5.ipynb
